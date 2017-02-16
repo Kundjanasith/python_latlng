@@ -1,0 +1,113 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chon Buri",
+               "short_name" : "จ.ชลบุรี",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20150",
+               "short_name" : "20150",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Moo 12, Chaiyapruk Rd. Chon Buri 20150, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.879206,
+               "lng" : 100.891983
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.8805549802915,
+                  "lng" : 100.8933319802915
+               },
+               "southwest" : {
+                  "lat" : 12.8778570197085,
+                  "lng" : 100.8906340197085
+               }
+            }
+         },
+         "place_id" : "ChIJvbGYXiCUAjERSRKqSEqBn0c",
+         "types" : [ "establishment", "point_of_interest", "real_estate_agency" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2433",
+               "short_name" : "2433",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Atlantic Avenue",
+               "short_name" : "S Atlantic Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Seven Seas Resort Condo",
+               "short_name" : "Seven Seas Resort Condo",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Daytona Beach",
+               "short_name" : "Daytona Beach",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Volusia County",
+               "short_name" : "Volusia County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32118",
+               "short_name" : "32118",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "5425",
+               "short_name" : "5425",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "2433 S Atlantic Ave, Daytona Beach, FL 32118, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.1886209,
+               "lng" : -80.98897749999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.1899698802915,
+                  "lng" : -80.98762851970848
+               },
+               "southwest" : {
+                  "lat" : 29.1872719197085,
+                  "lng" : -80.9903264802915
+               }
+            }
+         },
+         "place_id" : "ChIJLVqRkuHZ5ogRXr6lw78H5jM",
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}
